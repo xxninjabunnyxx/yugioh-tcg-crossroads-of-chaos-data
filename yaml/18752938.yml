@@ -1,0 +1,24 @@
+---
+id: 18752938
+name: Seed of Deception
+type: Spell Card
+frameType: spell
+desc: Special Summon 1 Level 2 or lower Plant-Type monster from your hand.
+race: Quick-Play
+card_sets:
+- set_name: Crossroads of Chaos
+  set_code: CSOC-EN046
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.59'
+card_images:
+- id: 18752938
+  image_url: https://images.ygoprodeck.com/images/cards/18752938.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/18752938.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/18752938.jpg
+card_prices:
+- cardmarket_price: '0.12'
+  tcgplayer_price: '0.22'
+  ebay_price: '0.99'
+  amazon_price: '0.99'
+  coolstuffinc_price: '0.39'
